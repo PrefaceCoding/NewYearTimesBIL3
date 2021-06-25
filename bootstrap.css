@@ -1,0 +1,22 @@
+.row {
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+}
+
+img{
+	width: 100%;
+}
+
+
+.addBorder {
+	border-right: 1px solid gray;
+}
+
+#top {
+	border-top: 1px solid gray;
+}
+
+*{
+	padding: 20px;
+}
